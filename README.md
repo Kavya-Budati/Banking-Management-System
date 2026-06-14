@@ -63,17 +63,17 @@ A Java-based Banking Management System developed using JDBC and MySQL to manage 
 
 # Project Structure
 
-  * File	                                      * Description
-AccountDAO.java	                       Account-related database operations
-CustomerDAO.java	                      Customer management operations
-LoanDAO.java	                          Loan management functionality
-DBConnect.java	                        Database connection setup
-DBUtil.java	                           Utility methods for database operations
-CreditScoreService.java	               Credit score processing
-InsertCustomer.java	                   Customer insertion functionality
-Menu.java	                             Main application menu
-TestConnection.java	                   Database connection testing
-
+| File | Description |
+|------|-------------|
+| AccountDAO.java | Account-related database operations |
+| CustomerDAO.java | Customer management operations |
+| LoanDAO.java | Loan management functionality |
+| DBConnect.java | Database connection setup |
+| DBUtil.java | Utility methods for database operations |
+| CreditScoreService.java | Credit score processing |
+| InsertCustomer.java | Customer insertion functionality |
+| Menu.java | Main application menu |
+| TestConnection.java | Database connection testing |
 # Future Enhancements
 
 * Graphical User Interface (JavaFX/Swing)
