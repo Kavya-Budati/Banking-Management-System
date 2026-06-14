@@ -87,5 +87,5 @@ A Java-based Banking Management System developed using JDBC and MySQL to manage 
 Kavya Budati
 
 ## Connect
-Email: [kavyab707@gmail.com](mailto:kavyab707@gmail.com)
-LinkedIn: [Kavya Budati](https://www.linkedin.com/in/kavya-budati-644402347/)
+* Email: [kavyab707@gmail.com](mailto:kavyab707@gmail.com)
+* LinkedIn: [Kavya Budati](https://www.linkedin.com/in/kavya-budati-644402347/)
